@@ -1,0 +1,91 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47655408.0,Show HN: I built a tiny LLM to demystify how language models work,technology,646,88,armanified,2026-04-06 19:24:58,0.13601236476043277,True
+47658146.0,France pulls last gold held in US for $15B gain,technology,309,176,teleforce,2026-04-06 19:24:58,0.567741935483871,True
+47652007.0,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,161,13,karimf,2026-04-06 19:24:58,0.08024691358024691,False
+47656981.0,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,67,21,stevebmark,2026-04-06 19:24:58,0.3088235294117647,False
+47651540.0,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,317,77,vbtechguy,2026-04-06 19:24:58,0.24213836477987422,True
+47655367.0,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,108,17,ikessler,2026-04-06 19:24:58,0.1559633027522936,False
+47655466.0,Employers use your personal data to figure out the lowest salary you'll accept,technology,309,168,thisislife2,2026-04-06 19:24:58,0.5419354838709678,True
+47650312.0,A tail-call interpreter in (nightly) Rust,technology,178,42,g0xA52A2A,2026-04-06 19:24:58,0.2346368715083799,False
+47648828.0,"Eight years of wanting, three months of building with AI",technology,836,262,brilee,2026-04-06 19:24:58,0.3130227001194743,True
+47649742.0,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,193,26,desideratum,2026-04-06 19:24:58,0.13402061855670103,True
+47656335.0,Does coding with LLMs mean more microservices?,technology,49,46,jer0me,2026-04-06 19:24:58,0.92,False
+47656659.0,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,technology,176,51,MoltenMonster,2026-04-06 19:24:58,0.288135593220339,False
+47640728.0,Show HN: A game where you build a GPU,technology,924,179,Jaso1024,2026-04-06 19:24:58,0.1935135135135135,True
+47658388.0,NIMBY Rails,technology,27,3,altilunium,2026-04-06 19:24:58,0.10714285714285714,False
+47652549.0,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,technology,56,28,alvivanco,2026-04-06 19:24:58,0.49122807017543857,False
+47640380.0,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,512,231,naves,2026-04-06 19:24:58,0.4502923976608187,True
+47655058.0,OpenAI's fall from grace as investors race to Anthropic,technology,177,118,1vuio0pswjnm7,2026-04-06 19:24:58,0.6629213483146067,False
+47651479.0,From birds to brains: My path to the fusiform face area (2024),technology,36,0,everbody,2026-04-06 19:24:58,0.0,False
+47633396.0,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1080,819,firloop,2026-04-06 19:24:58,0.757631822386679,True
+47637757.0,Embarrassingly simple self-distillation improves code generation,technology,644,197,Anon84,2026-04-06 19:24:58,0.3054263565891473,True
+47657198.0,Scientists found a protein that drives brain aging – and how to stop it,technology,17,5,mikhael,2026-04-06 19:24:58,0.2777777777777778,False
+47658215.0,The end of password pain: building frictionless authentication at the Guardian,technology,6,2,Tomte,2026-04-06 19:24:58,0.2857142857142857,False
+47655155.0,'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains,technology,40,10,mikhael,2026-04-06 19:24:58,0.24390243902439024,False
+47645432.0,Introduction to Computer Music (2009) [pdf],technology,226,78,luu,2026-04-06 19:24:58,0.3436123348017621,True
+47655480.0,Make Humans Analog Again,technology,6,0,muunbo,2026-04-06 19:24:58,0.0,False
+47647788.0,The threat is comfortable drift toward not understanding what you're doing,worldnews,892,586,zaikunzhang,2026-04-06 19:25:00,0.6562150055991042,True
+47636765.0,Endian wars and anti-portability: this again?,worldnews,44,54,awilfox,2026-04-06 19:25:00,1.2,False
+47653036.0,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,38,12,anigbrowl,2026-04-06 19:25:00,0.3076923076923077,False
+47656682.0,Winners of the 2026 Kokuyo Design Awards,worldnews,50,15,zdw,2026-04-06 19:25:00,0.29411764705882354,False
+47596739.0,Mercor says it was hit by cyberattack tied to compromise LiteLLM,worldnews,151,45,jackson-mcd,2026-04-06 19:25:00,0.29605263157894735,False
+47615002.0,Qwen3.6-Plus: Towards real world agents,worldnews,589,207,pretext,2026-04-06 19:25:00,0.35084745762711866,True
+47645817.0,How Pope Leo is pushing back on divine justification of war,worldnews,73,40,1659447091,2026-04-06 19:25:00,0.5405405405405406,False
+47650273.0,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,17,9,1vuio0pswjnm7,2026-04-06 19:25:00,0.5,False
+47627419.0,The Axios supply chain attack used individually targeted social engineering,worldnews,47,11,cmitsakis,2026-04-06 19:25:00,0.22916666666666666,False
+47625311.0,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,worldnews,45,24,tosh,2026-04-06 19:25:00,0.5217391304347826,False
+47615756.0,Renewables reached nearly 50% of global electricity capacity last year,worldnews,296,148,Growtika,2026-04-06 19:25:00,0.4983164983164983,True
+47651140.0,Ask HN: Where are all the disruptive software that AI promised?,worldnews,16,14,p-o,2026-04-06 19:25:00,0.8235294117647058,False
+47644934.0,"Delve claiming that whistleblower was part of a ""targeted cyberattack""",worldnews,6,2,rrvsh,2026-04-06 19:25:00,0.2857142857142857,False
+47653816.0,UK intelligence censored report on global warming and homeland security,worldnews,95,54,ewidar,2026-04-06 19:25:00,0.5625,False
+47624317.0,New Rowhammer attacks give complete control of machines running Nvidia GPUs,worldnews,132,10,01-_-,2026-04-06 19:25:00,0.07518796992481203,False
+47617217.0,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,worldnews,36,7,j0rg3,2026-04-06 19:25:00,0.1891891891891892,False
+47648102.0,Every dependency you add is a supply chain attack waiting to happen,worldnews,8,0,birdculture,2026-04-06 19:25:00,0.0,False
+47618221.0,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-06 19:25:00,0.753731343283582,False
+47657396.0,US-Iran war explained by Chinese AI animation: Legend of the Valley of Gold [video],worldnews,5,0,Eridanus2,2026-04-06 19:25:00,0.0,False
+47616157.0,Software never had a soul,worldnews,20,17,firloop,2026-04-06 19:25:00,0.8095238095238095,False
+47650022.0,Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses,worldnews,35,19,ChrisArchitect,2026-04-06 19:25:00,0.5277777777777778,False
+47651502.0,The Therac-25 software radiation disaster,worldnews,7,2,bithavoc,2026-04-06 19:25:00,0.25,False
+47633734.0,ENiGMA½ BBS Software,worldnews,10,1,NuSkooler,2026-04-06 19:25:00,0.09090909090909091,False
+47656501.0,The 1987 game “The Last Ninja” was 40 kilobytes,sports,173,116,keepamovin,2026-04-06 19:25:02,0.6666666666666666,False
+47637377.0,LÖVE: 2D Game Framework for Lua,sports,344,166,cl3misch,2026-04-06 19:25:02,0.4811594202898551,True
+47639727.0,"When legal sports betting surges, so do Americans' financial problems",sports,219,143,pseudolus,2026-04-06 19:25:02,0.65,True
+47644726.0,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-06 19:25:02,0.16,False
+47609564.0,Steam on Linux Use Skyrocketed Above 5% in March,sports,781,365,hkmaxpro,2026-04-06 19:25:02,0.46675191815856776,True
+47633676.0,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-06 19:25:02,0.9384615384615385,False
+47641615.0,Sopwith – 1984 Game (2000),sports,97,42,elvis70,2026-04-06 19:25:02,0.42857142857142855,False
+47650234.0,Panorama – AI that finds your team's workflows and hidden structures,sports,6,1,bryantwolf,2026-04-06 19:25:02,0.14285714285714285,False
+47651019.0,PS3 emulator makes Cell CPU breakthrough that improves performance in all games,sports,8,0,gloxkiqcza,2026-04-06 19:25:02,0.0,False
+47642552.0,Nandgame – Build a Computer from Scratch,sports,7,0,Vortigaunt,2026-04-06 19:25:02,0.0,False
+47623053.0,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",sports,25,14,arttaboi,2026-04-06 19:25:02,0.5384615384615384,False
+47632901.0,Sandbox Strategy Game for AI,sports,6,0,Stefan_Golas,2026-04-06 19:25:02,0.0,False
+47602986.0,Show HN: Real-time dashboard for Claude Code agent teams,sports,76,28,simple10,2026-04-06 19:25:02,0.36363636363636365,False
+47656303.0,Case study: recovery of a corrupted 12 TB multi-device pool,science,91,42,salt4034,2026-04-06 19:25:04,0.45652173913043476,False
+47650502.0,Computational Physics (2nd Edition) (2025),science,160,20,teleforce,2026-04-06 19:25:04,0.12422360248447205,False
+47648404.0,My Google Workspace account suspension,science,356,212,zenincognito,2026-04-06 19:25:04,0.5938375350140056,True
+47629485.0,A case study in testing with 100+ Claude agents in parallel,science,63,50,thejash,2026-04-06 19:25:04,0.78125,False
+47611993.0,VR Realizes the Cyberspace Metaphor,science,17,17,dryadin,2026-04-06 19:25:04,0.9444444444444444,False
+47604155.0,SpaceX files to go public,science,398,576,nutjob2,2026-04-06 19:25:04,1.443609022556391,True
+47648226.0,SpaceX and OpenAI: The Mega IPO Grift [video],science,26,10,throw0101c,2026-04-06 19:25:04,0.37037037037037035,False
+47632504.0,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",science,98,42,Bender,2026-04-06 19:25:04,0.42424242424242425,False
+47607394.0,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-06 19:25:04,0.14634146341463414,False
+47656678.0,"Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",science,8,0,1vuio0pswjnm7,2026-04-06 19:25:04,0.0,False
+47645926.0,The Spaceballs sequel will be released in April next year,science,8,1,WaitWaitWha,2026-04-06 19:25:04,0.1111111111111111,False
+47645240.0,SpaceX Pushes Back Crucial Starship Test Launch,science,14,11,bookmtn,2026-04-06 19:25:04,0.7333333333333333,False
+47654226.0,Trump proposes steep cut to NASA budget as astronauts head for the Moon,science,8,0,rbanffy,2026-04-06 19:25:04,0.0,False
+47645696.0,Towards end-to-end automation of AI research,science,6,0,hardmaru,2026-04-06 19:25:04,0.0,False
+47655392.0,Show HN: I made a YouTube search form with advanced filters,entertainment,266,162,nevernothing,2026-04-06 19:25:06,0.6067415730337079,True
+47652322.0,Music for Programming,entertainment,244,109,merusame,2026-04-06 19:25:06,0.4448979591836735,True
+47655268.0,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,73,16,mohshomis,2026-04-06 19:25:06,0.21621621621621623,False
+47646504.0,Show HN: OsintRadar – Curated directory for osint tools,entertainment,73,9,lexalizer,2026-04-06 19:25:06,0.12162162162162163,False
+47642601.0,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,166,28,laszlokorte,2026-04-06 19:25:06,0.16766467065868262,False
+47645025.0,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,113,49,waveywaves,2026-04-06 19:25:06,0.4298245614035088,False
+47613118.0,Show HN: I built a small app for FSI German Course,entertainment,52,15,syedmsawaid,2026-04-06 19:25:06,0.2830188679245283,False
+47653471.0,"Musician says AI company is cloning her music, filing claims against her",entertainment,114,19,lando2319,2026-04-06 19:25:06,0.16521739130434782,False
+47625952.0,Show HN: I built a frontpage for personal blogs,entertainment,770,194,ramkarthikk,2026-04-06 19:25:06,0.251621271076524,True
+47655078.0,Show HN: Mdarena – Benchmark your Claude.md against your own PRs,entertainment,21,3,hudsongr,2026-04-06 19:25:06,0.13636363636363635,False
+47639303.0,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,155,17,kaipereira,2026-04-06 19:25:06,0.10897435897435898,False
+47639779.0,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",entertainment,181,89,jrandolf,2026-04-06 19:25:06,0.489010989010989,False
+47624645.0,Show HN: Apfel – The free AI already on your Mac,entertainment,729,152,franze,2026-04-06 19:25:06,0.20821917808219179,True
+47639567.0,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,163,6,teamchong,2026-04-06 19:25:06,0.036585365853658534,False
+47633947.0,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,546,181,detaro,2026-04-06 19:25:06,0.33089579524680074,True
